@@ -41,9 +41,9 @@ export function Faq() {
           <AccordionItem value="item-6">
             <AccordionTrigger>How do I create Work on Gibwork?</AccordionTrigger>
             <AccordionContent>
-              Under the earnings display on the apps home page, click the
-              &quot;Create&quot; buttons for creating Open Source Bounties and Task. These buttons guide you through the process of creating and posting jobs on the
-              platform.
+              Open the Gibwork mobile app or browser dashboard, then select Create to launch a new Open
+              Source Bounty or Task. The flow guides you through posting a job, setting a reward, and
+              inviting contributors.
             </AccordionContent>
           </AccordionItem>
           <AccordionItem value="item-1">
